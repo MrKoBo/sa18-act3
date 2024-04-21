@@ -1,0 +1,31 @@
+[
+    {
+      "model": "myapp.products",
+      "pk": 1,
+      "fields": {
+        "name": "Kleenex",
+        "price": 8.73,
+        "description": "You can blow your nose!"
+      }
+    },
+    {
+        "model": "myapp.products",
+        "pk": 2,
+        "fields": {
+          "name": "Harry Potter Legos",
+          "price": 104.99,
+          "description": "You can build Hogwarts!"
+        }
+      },
+      {
+        "model": "myapp.products",
+        "pk": 3,
+        "fields": {
+          "name": "Screw",
+          "price": 0.25,
+          "description": "I can screw things!"
+        }
+      }
+    
+]
+  
